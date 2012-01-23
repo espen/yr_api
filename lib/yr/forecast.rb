@@ -1,3 +1,5 @@
+# coding: utf-8
+
 module Yr
   class Forecast
     attr_accessor :from, :to, :title, :body, :place
